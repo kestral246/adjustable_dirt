@@ -1,5 +1,5 @@
-Adjusted Dirt [adjusted_dirt]
-=============================
+Adjustable Dirt [adjustable_dirt]
+=================================
 
 By David G (kestral246@gmail.com)
 
@@ -117,4 +117,4 @@ The def\_gs.png defines the mask, def\_gn.png would get rid of the shadow effect
 
 **permafrost with stones**
 
-The only exception is permafrost with stones, which looks better when masking out whole stones. I provide three simple masks, straight across transition, left side 2 pixels lower, and right side 2 pixels lower. Set the y-offset to try to line up with a gap in the stones textures that one of these patterns can match.
+The only exception is permafrost with stones, which looks better when masking out whole stones. I provide a set of masks just for this with straight, lower left side, and lower right side transitions. Set the y-offset to try to line up with a gap in the stones textures that one of these patterns can match.
