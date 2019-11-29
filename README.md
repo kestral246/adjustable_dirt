@@ -32,7 +32,7 @@ I'm currently supporting three different texture packs: Minetest Game default, R
 
 - Go into the adjustable\_dirt directory.
 - Copy override\_rpg.txt to override.txt
-- Copy rpg16 directory into the adjustable\_dirt directory, making sure it's the only other texture in this directory.
+- Copy rpg16 directory into the adjustable\_dirt directory, making sure it's the only other texture pack in this directory.
 - Enable the adjustable_dirt texture pack in Minetest.
 
 
@@ -45,7 +45,7 @@ A simple way to change the look is to use my example files on another texture pa
 User Customization
 ------------------
 
-But to take complete control, you need to roll up your sleeves and edit you're own override.txt. For each node in this file, there are two ways to customize it: which mask to use, and the y-offset.
+To take complete control, you need to roll up your sleeves and edit you're own override.txt. For each node in this file, there are two ways to customize it: which mask to use, and the y-offset.
 
 As an example, here are all the currently defined grass-type masks available, with an explanation of my naming scheme. *(Note that sometimes not every type of mask is used. For the default minetest textures, dry grass, coniferous litter, and rainforest litter all use the grass-type mask, but with different y-offsets.)*
 
