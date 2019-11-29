@@ -1,0 +1,35 @@
+default:dirt_with_coniferous_litter sides default_coniferous_litter.png^(default_dirt.png^[combine:16x16:0,-5=rpg_cn.png^[makealpha:255,255,255)
+
+default:dirt_with_dry_grass sides default_dry_grass.png^(default_dirt.png^[combine:16x16:0,-6=rpg_dn.png^[makealpha:255,255,255)
+default:dry_dirt_with_dry_grass sides default_dry_grass.png^(default_dry_dirt.png^[combine:16x16:0,-6=rpg_dn.png^[makealpha:255,255,255)
+
+default:dirt_with_grass sides default_grass.png^(default_dirt.png^[combine:16x16:0,-6=rpg_gn.png^[makealpha:255,255,255)
+default:dirt_with_grass_footsteps sides default_grass.png^(default_dirt.png^[combine:16x16:0,-6=rpg_gn.png^[makealpha:255,255,255)
+
+default:permafrost_with_moss sides default_moss.png^(default_permafrost.png^[combine:16x16:0,-7=rpg_mn.png^[makealpha:255,255,255)
+
+default:dirt_with_rainforest_litter sides default_rainforest_litter.png^(default_dirt.png^[combine:16x16:0,-6=rpg_rn.png^[makealpha:255,255,255)
+
+default:dirt_with_snow sides default_snow.png^(default_dirt.png^[combine:16x16:0,-7=rpg_sn.png^[makealpha:255,255,255)
+
+default:permafrost_with_stones sides default_permafrost.png^default_stones.png^(default_permafrost.png^[combine:16x16:0,-3=sto_s0.png^[makealpha:255,255,255)
+
+
+default:dirt_with_coniferous_litter top default_coniferous_litter.png
+default:dirt_with_coniferous_litter bottom default_dirt.png
+default:dirt_with_dry_grass top default_dry_grass.png
+default:dirt_with_dry_grass bottom default_dirt.png
+default:dirt_with_grass top default_grass.png
+default:dirt_with_grass bottom default_dirt.png
+default:dirt_with_grass_footsteps top default_grass.png^default_footprint.png
+default:dirt_with_grass_footsteps bottom default_dirt.png
+default:dirt_with_rainforest_litter top default_rainforest_litter.png
+default:dirt_with_rainforest_litter bottom default_dirt.png
+default:dirt_with_snow top default_snow.png
+default:dirt_with_snow bottom default_dirt.png
+default:dry_dirt_with_dry_grass top default_dry_grass.png
+default:dry_dirt_with_dry_grass bottom default_dry_dirt.png
+default:permafrost_with_moss top default_moss.png
+default:permafrost_with_moss bottom default_permafrost.png
+default:permafrost_with_stones top default_permafrost.png^default_stones.png
+default:permafrost_with_stones bottom default_permafrost.png

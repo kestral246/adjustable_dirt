@@ -1,0 +1,9 @@
+DefaultGrid Texture Pack
+
+License of media (textures)
+---------------------------
+Copyright 2019 David G (kestral246@gmail.com) CC BY-SA 3.0
+
+License of code
+---------------
+Copyright 2019 David G (kestral246@gmail.com) LGPL-2.1
